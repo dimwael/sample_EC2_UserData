@@ -51,10 +51,10 @@ foreach ($item in $zip.Items()) {
 $htmlContent = @"
 <html>
 <head>
-    <title>Hi Wael, it works!</title>
+    <title>Hi APTIV, it works!</title>
 </head>
 <body>
-    <h1>Hi Wael, it works!</h1>
+    <h1>Hi APTIV, it works!</h1>
 </body>
 </html>
 "@
